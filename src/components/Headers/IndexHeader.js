@@ -37,10 +37,13 @@ function IndexHeader() {
             <img
               alt="..."
               className="n-logo"
-              src={require("assets/img/now-logo.png")}
+              src={require("assets/img/CompeanMacias.jpeg")}
             ></img>
-            <h1 className="h1-seo">Now UI Kit.</h1>
-            <h3>A beautiful Bootstrap 4 UI kit. Yours free.</h3>
+            <h1 className="h1-seo">UNIVERSIDAD TECNOLÓGICA DE DURANGO</h1>
+            <h2 className="h1-seo">Nombre del alumno: Compean Macías Gerardo Daniel</h2>
+            <h3>Gestión del proceso de Software</h3>
+            <h3>Parcial 1</h3>
+
           </div>
           <h6 className="category category-absolute">
             Designed by{" "}
