@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DanielComac/compean_examen_parcial1.git/static/css/main.a618586c.css",
-    "main.js": "/DanielComac/compean_examen_parcial1.git/static/js/main.12bd9abe.js",
+    "main.js": "/DanielComac/compean_examen_parcial1.git/static/js/main.c79f4dc9.js",
     "static/media/hero-image-1.png": "/DanielComac/compean_examen_parcial1.git/static/media/hero-image-1.33f10ca8d00cbcdb340e.png",
     "static/media/header.jpg": "/DanielComac/compean_examen_parcial1.git/static/media/header.2cb9b14bf49346eb410d.jpg",
     "static/media/hero-image-2.png": "/DanielComac/compean_examen_parcial1.git/static/media/hero-image-2.876d72184b5448408fd8.png",
@@ -32,6 +32,6 @@
   },
   "entrypoints": [
     "static/css/main.a618586c.css",
-    "static/js/main.12bd9abe.js"
+    "static/js/main.c79f4dc9.js"
   ]
 }
